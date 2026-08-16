@@ -1,2 +1,1 @@
 # juerock.cn
-juerock.cn
